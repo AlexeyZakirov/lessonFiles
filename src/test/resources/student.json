@@ -1,0 +1,7 @@
+{
+  "firstName": "John",
+  "lastName": "Snow",
+  "age": 15,
+  "hasScholarship": false,
+  "favoriteSubjects": ["Math", "Chemistry", "History"]
+}
